@@ -1,0 +1,21 @@
+.page {
+  background-color: rgb(204, 207, 235);
+  height: 100vh;
+  text-align: center;
+  height: 1280px;
+}
+.button-block {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  background-color: #fff;
+  height: 50px;
+  width: 50px;
+  margin: 20px 10px;
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
